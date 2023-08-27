@@ -1,4 +1,4 @@
-n = 25
+n = int(input("Enter the number :"))
 flag = 0
 for i in range(2,n):
     if n%i==0:
